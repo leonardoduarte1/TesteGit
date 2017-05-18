@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        agora vai
+        teste lucas
         <?php
         // put your code here
         ?>
